@@ -9,7 +9,7 @@ quantity_purchased = 3
 # Calculate the total purchase cost
 total_cost = product_price * quantity_purchased
 
-# Step 3: Display all the business transaction details
+# Display all the business transaction details
 print("Business Name:", business_name)
 print("Product Name:", product_name)
 print("Product Price:", product_price)
