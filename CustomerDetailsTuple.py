@@ -16,3 +16,8 @@ print("Telephone Number:", customer[2])
 # Display the number of items in the tuple
 print("Number of Items:", len(customer))
 
+# Attempt to modify the telephone number
+# customer[2] = "0798765432"
+
+print("\nModification cannot be performed.")
+print("Reason: Tuples are immutable, meaning their values cannot be changed after creation.")
