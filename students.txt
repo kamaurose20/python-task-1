@@ -1,0 +1,15 @@
+Name: Rose Waithira
+Registration Number: BIT2024/001
+Course: Bachelor of Information Technology
+Mark: 85
+
+Name: John Mwangi
+Registration Number: BIT2024/002
+Course: Computer Science
+Mark: 78
+
+Name: Mary Wanjiku
+Registration Number: BIT2024/003
+Course: Software Engineering
+Mark: 90
+
