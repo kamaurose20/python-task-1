@@ -1,0 +1,1 @@
+Product: soap, Quantity: 59, Total Sales: 100000
